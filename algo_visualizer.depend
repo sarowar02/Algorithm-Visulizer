@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1679202064 source:c:\users\user\desktop\bubble sort\main.c
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+	"bubblesort.h"
+
+1266076214 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1679206242 c:\users\user\desktop\bubble sort\bubblesort.h
+
+1679754241 source:c:\users\user\desktop\algorithm visualizer\main.c
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+	"bubblesort.h"
+	"linearsearch.h"
+
+1679206242 c:\users\user\desktop\algorithm visualizer\bubblesort.h
+
+1679754331 c:\users\user\desktop\algorithm visualizer\linearsearch.h
+
