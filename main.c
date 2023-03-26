@@ -18,7 +18,6 @@ int main()
         outtextxy(405,362,"ALGORITHM VISUALIZER");
 
         rectangle(0,10,200,50);
-        setcolor(LIGHTBLUE);
         outtextxy(5,14,"Bubble sort");
         setfillstyle(SOLID_FILL,GREEN);
         floodfill(2,14,WHITE);
