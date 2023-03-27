@@ -1,7 +1,7 @@
-#define DELAY 300
+#define DELAY 500
 #define N 10
 #define MAX 50
-#define MIN 1
+#define MIN 40
 int visited[20];
 int random_int(int min,int max)
 {

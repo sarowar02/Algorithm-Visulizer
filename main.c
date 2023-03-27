@@ -86,11 +86,10 @@ int main()
                 arr[i]=random_int(MIN,MAX);
             }
             cleardevice();
-            int sr;
-            sr=random_int(MIN,MAX);
-            printf("%d",sr);
-            outtextxy(200,200,"Linear Search Visualization");
-            linear_search(arr,sizeof(arr)/sizeof(arr[0]),-1,sr,RED);
+
+            //
+            outtextxy(300,200,"Linear Search Visualization");
+            linear_search(arr,sizeof(arr)/sizeof(arr[0]),-1);
 
 
             delay(5000);
